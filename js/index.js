@@ -1,0 +1,10 @@
+console.time('code took');
+console.log('hjss23');
+console.log(34);
+console.log(33+3);
+console.warn('He');
+console.log([2,3,4,4]);
+console.table({saurav:'good',neupane:'very'});
+console.timeEnd('code took');
+console.assert(age>200,'This is impossible');
+console.error('this is error');
