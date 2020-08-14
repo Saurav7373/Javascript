@@ -10,7 +10,11 @@ console.log("Data type is " + (typeof marks));
 
 // Boolean
 let isDriver1 = true;
+<<<<<<< HEAD
 console.log("Data type is " + (typeof isDriver));
+=======
+console.log("Data type is " + (typeof isDriver1));
+>>>>>>> 6402b0894ea9e4a09af8eb84ce6dbf545381c9fc
 
 // Null
 let nullVar = null;
